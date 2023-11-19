@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/react-app-files/static/js/main.884cfae3.js",
+    "static/media/btc.png": "/react-app-files/static/media/btc.7fa0b41a49e016b6407a.png",
+    "index.html": "/react-app-files/index.html",
+    "main.884cfae3.js.map": "/react-app-files/static/js/main.884cfae3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.884cfae3.js"
+  ]
+}
